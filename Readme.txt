@@ -20,3 +20,4 @@ PASSWORD: pass
 this is a APACHE Tomcat website.
 
 
+It is  MIT LICENCED projrct
