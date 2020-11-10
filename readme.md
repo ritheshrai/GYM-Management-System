@@ -28,4 +28,4 @@ PASSWORD: pass
 This is an APACHE Tomcat website.
 
 
- >It is  MIT LICENCED project
+ > :lock_with_ink_pen: It is  MIT LICENCED project
