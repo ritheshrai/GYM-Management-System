@@ -26,6 +26,9 @@ PASSWORD: pass
 ```
 
 This is an APACHE Tomcat website.
+> ScreenShot
+![Screenshot](https://github.com/ritheshrai/GYM-Management-System/blob/master/ScreenShots/login%20page.png)
 
+![Screenshot](https://github.com/ritheshrai/GYM-Management-System/blob/master/ScreenShots/Admin%20menu.png)
 
  > :lock_with_ink_pen: It is  MIT LICENCED project
